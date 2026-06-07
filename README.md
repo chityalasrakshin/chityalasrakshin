@@ -1,4 +1,5 @@
 # Srakshin Chityala
+![Profile Views](https://komarev.com/ghpvc/?username=chityalasrakshin&color=brightgreen)
 <div align="center">
   
 <a href="https://www.linkedin.com/in/srakshin" target="_blank">
