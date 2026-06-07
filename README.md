@@ -20,17 +20,20 @@
 </a>
 
 **Languages**
+
 [![Python](https://img.shields.io/badge/Python-2C3E50?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-2C3E50?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-2C3E50?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 **Dev Tools & Infrastructure**
+
 [![Git](https://img.shields.io/badge/Git-2C3E50?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-2C3E50?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-2C3E50?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-2C3E50?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 **Machine Learning / Data Science**
+
 [![PyTorch](https://img.shields.io/badge/PyTorch-34495E?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Keras](https://img.shields.io/badge/Keras-34495E?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-34495E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -39,6 +42,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-34495E?style=flat-square&logoColor=white)](https://matplotlib.org/)
 
 **LLM / AI Engineering**
+
 [![LangChain](https://img.shields.io/badge/LangChain-0A1628?style=flat-square&logoColor=white)](https://www.langchain.com/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-0A1628?style=flat-square&logoColor=white)](https://www.langchain.com/langgraph)
 [![MCP](https://img.shields.io/badge/MCP-0A1628?style=flat-square&logoColor=white)](#)
@@ -46,6 +50,7 @@
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0A1628?style=flat-square&logoColor=white)](#)
 
 **MLOps & Data Engineering**
+
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-1F2D3A?style=flat-square&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2D3A?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-1F2D3A?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
