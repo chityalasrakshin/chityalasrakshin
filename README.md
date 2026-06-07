@@ -69,7 +69,7 @@
 | **GRIET Vivitsu'25 Hackathon Winner** | Built an AI-powered travel + culture platform with smart itinerary planning, real-time safety/event chatbot, and a verified marketplace for authentic Indian experiences at fair prices at the [fsw-GRIET](https://github.com/fsw-griet) hackathon. |
 
 ---
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srakshin)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chityalasrakshin)
