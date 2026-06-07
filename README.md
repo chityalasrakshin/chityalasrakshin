@@ -69,12 +69,13 @@
 | **GRIET Vivitsu'25 Hackathon Winner** | Built an AI-powered travel + culture platform with smart itinerary planning, real-time safety/event chatbot, and a verified marketplace for authentic Indian experiences at fair prices at the [fsw-GRIET](https://github.com/fsw-griet) hackathon. |
 
 ---
+## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://x.com/srakshin">X</a> ·
-  <a href="https://www.linkedin.com/in/srakshin">LinkedIn</a> ·
-  <a href="https://www.instagram.com/srakshin_">Instagram</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srakshin)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chityalasrakshin)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@srakshin)
+[![Twitter/X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/srakshin)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bsrakshin@gmail.com)
 
 ---
 
