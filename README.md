@@ -1,5 +1,6 @@
 # Srakshin Chityala
-![Profile Views](https://komarev.com/ghpvc/?username=chityalasrakshin&color=brightgreen)
+
+[![Website](https://img.shields.io/badge/WEBSITE-SRAKSHIN.VERCEL.APP-0070f3?style=for-the-badge&logo=vercel&logoColor=white)](https://srakshin.vercel.app/) ![Profile Views](https://komarev.com/ghpvc/?username=chityalasrakshin&color=brightgreen&style=for-the-badge)
 <div align="center">
   
 <a href="https://www.linkedin.com/in/srakshin" target="_blank">
